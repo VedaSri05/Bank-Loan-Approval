@@ -1,0 +1,9 @@
+mysql-connector-python
+pandas
+matplotlib
+seaborn
+scikit-learn
+imbalanced-learn
+streamlit
+sqlalchemy
+joblib
