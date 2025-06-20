@@ -2,7 +2,6 @@
 
 An interactive data analysis and prediction dashboard for bank loan approvals. Built using **Streamlit**, this project leverages machine learning and data visualization to understand approval trends and classify loan applications based on user inputs.
 
----
 
 ## 📌 Overview
 
@@ -11,7 +10,6 @@ This project analyzes a bank's historical loan data to uncover insights and pred
 - Analysis and modeling in **Python**
 - Real-time deployment via **Streamlit**
 
----
 
 ## 🧰 Tech Stack & Libraries
 
@@ -23,7 +21,6 @@ This project analyzes a bank's historical loan data to uncover insights and pred
 | Machine Learning   | `scikit-learn`, `imbalanced-learn`, `joblib`  |
 | Web App Interface  | `streamlit`                                    |
 
----
 
 ## 📂 Features
 
@@ -33,7 +30,6 @@ This project analyzes a bank's historical loan data to uncover insights and pred
 - 🎛️ User-friendly Streamlit dashboard for real-time predictions
 - 💡 Balanced data using techniques from `imbalanced-learn` for better accuracy
 
----
 
 ## ⚙️ How to Run the App
 
@@ -58,8 +54,6 @@ streamlit run app.py
 ```
 
 > Make sure your database connection details in the code are correct (host, user, password, database name) before running.
-
----
 
 
 ## 📊 Visualizations Include
